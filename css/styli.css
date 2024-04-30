@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  nav {
+    text-align: right;
+  }
+  
+  nav a {
+    margin-right: 10px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  #nosotros p {
+    text-align: justify;
+  }
+  
+  #tienda ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #tienda ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  #promociones p {
+    font-weight: bold;
+  }
+  
+  #contacto p {
+    text-align: justify;
+  }
+  
+  #contacto ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #contacto ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .logo {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .logo img {
+    width: 100px;
+  }
